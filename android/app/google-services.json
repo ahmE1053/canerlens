@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "801641693646",
+    "project_id": "doclink-d30a3",
+    "storage_bucket": "doclink-d30a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801641693646:android:f70d800f01cdb8b1316b9f",
+        "android_client_info": {
+          "package_name": "com.example.doclink2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801641693646-in90v2si5mee8i78jcruuhmrsascg5cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL1ell_ciF6Rdu5FGuUdqOKh-QPaw8mCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801641693646-6p4mi2jegjvju0qe919uam05gv3p5tji.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "801641693646-5eruicnq1538ssc6k2blan2r6fcm07f3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doclinkDoctorapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801641693646:android:1820e295aea3e94f316b9f",
+        "android_client_info": {
+          "package_name": "com.example.doclink_doctorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801641693646-in90v2si5mee8i78jcruuhmrsascg5cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL1ell_ciF6Rdu5FGuUdqOKh-QPaw8mCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801641693646-6p4mi2jegjvju0qe919uam05gv3p5tji.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "801641693646-5eruicnq1538ssc6k2blan2r6fcm07f3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doclinkDoctorapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801641693646:android:19ea05a19e159ba8316b9f",
+        "android_client_info": {
+          "package_name": "com.example.medapp4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801641693646-in90v2si5mee8i78jcruuhmrsascg5cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL1ell_ciF6Rdu5FGuUdqOKh-QPaw8mCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801641693646-6p4mi2jegjvju0qe919uam05gv3p5tji.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "801641693646-5eruicnq1538ssc6k2blan2r6fcm07f3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doclinkDoctorapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
